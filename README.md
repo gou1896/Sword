@@ -77,7 +77,7 @@ README
 * [67. 剪绳子](https://github.com/leipinyuan/Sword/blob/master/src/sword/test67.java)
 
 
-比如`:blush:`，可以显示:blush:。
+
 #### 效果
 
 - [x] 需求分析
@@ -86,3 +86,5 @@ README
 - [ ] 编码
 - [ ] 测试
 - [ ] 交付
+
+:blush:
