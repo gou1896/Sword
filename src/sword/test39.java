@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.4.1 15:09
- * @Description: 《剑指offer》39. 平衡二叉树
+ * @Description: 平衡二叉树
  * 输入一棵二叉树，判断该二叉树是否是平衡二叉树。
  */
 public class test39 {

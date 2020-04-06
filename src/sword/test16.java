@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 13:28
- * @Description: 《剑指offer》16.合并两个排序（单调递增）的链表
+ * @Description: 合并两个排序（单调递增）的链表
  */
 public class test16 {
 	public static void main(String[] args) {

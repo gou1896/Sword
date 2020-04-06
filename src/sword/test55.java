@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.4.2 15:16
- * @Description: 《剑指offer》 55. 链表中环的入口节点
+ * @Description: 链表中环的入口节点
  */
 public class test55 {
 	public static void main(String[] args) {

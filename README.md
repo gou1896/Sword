@@ -1,6 +1,7 @@
 README
 ===========================
-该文件用来记录《剑指offer》上面的67个题目的解题思路和代码，同时，对部分题目进行了扩展。
+该项目用来记录《剑指offer》上面的67个题目的解题思路和代码。
+同时，对部分题目进行了扩展。
 ****
 
 |作者|雷品源|
@@ -12,10 +13,10 @@ README
 * [2. 替换空格](https://github.com/leipinyuan/Sword/blob/master/src/sword/test2.java)
 * [3. 从尾到头打印链表](https://github.com/leipinyuan/Sword/blob/master/src/sword/test3.java)
 * [4. 重建二叉树](https://github.com/leipinyuan/Sword/blob/master/src/sword/test4.java)
-* [5. 用两个栈来实现队列](https://github.com/leipinyuan/Sword/blob/master/src/sword/test5.java)
+* [5. 用两个栈来实现队列](https://github.com/leipinyuan/Sword/blob/master/src/sword/test5.java) [_变式题](https://github.com/leipinyuan/Sword/blob/master/src/sword/test5_cg.java)
 * [6. 选择数组中的的最小数字](https://github.com/leipinyuan/Sword/blob/master/src/sword/test6.java)
 * [7. 斐波那契数列](https://github.com/leipinyuan/Sword/blob/master/src/sword/test7.java)
-* [8. 青蛙跳台阶](https://github.com/leipinyuan/Sword/blob/master/src/sword/test8.java)
+* [8. 青蛙跳台阶](https://github.com/leipinyuan/Sword/blob/master/src/sword/test8.java) [_变式题](https://github.com/leipinyuan/Sword/blob/master/src/sword/test8_cg.java)
 * [9. 变态跳台阶](https://github.com/leipinyuan/Sword/blob/master/src/sword/test9.java)
 * [10. 矩形覆盖](https://github.com/leipinyuan/Sword/blob/master/src/sword/test10.java)
 * [11. 二进制中1的个数](https://github.com/leipinyuan/Sword/blob/master/src/sword/test11.java)
@@ -59,7 +60,7 @@ README
 * [49. 把字符串转换成整数](https://github.com/leipinyuan/Sword/blob/master/src/sword/test49.java)
 * [50. 数组中重复的数字](https://github.com/leipinyuan/Sword/blob/master/src/sword/test50.java)
 * [51. 构建乘积数组](https://github.com/leipinyuan/Sword/blob/master/src/sword/test51.java)
-* [52. 正则表达式匹配](https://github.com/leipinyuan/Sword/blob/master/src/sword/test52.java)
+* [52. 正则表达式匹配](https://github.com/leipinyuan/Sword/blob/master/src/sword/test52.java)  [_变式题](https://github.com/leipinyuan/Sword/blob/master/src/sword/test52_str.java)
 * [53. 表示数值的字符串](https://github.com/leipinyuan/Sword/blob/master/src/sword/test53.java)
 * [54. 字符流中第一个不重复的字符](https://github.com/leipinyuan/Sword/blob/master/src/sword/test54.java)
 * [55. 链表中环的入口节点](https://github.com/leipinyuan/Sword/blob/master/src/sword/test55.java)
@@ -76,4 +77,4 @@ README
 * [66. 机器人的运动范围](https://github.com/leipinyuan/Sword/blob/master/src/sword/test66.java)
 * [67. 剪绳子](https://github.com/leipinyuan/Sword/blob/master/src/sword/test67.java)
 
-:blush:
+    :blush:

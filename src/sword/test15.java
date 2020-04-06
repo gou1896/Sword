@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 13:20
- * @Description: 《剑指offer》15.反转链表
+ * @Description: 反转链表
  */
 public class test15 {
 	public static void main(String[] args) {

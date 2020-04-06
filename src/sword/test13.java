@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * @Author: lei
  * @Data: 2020.3.31 12:13
- * @Description: 《剑指offer》13.将数组中的奇数放在偶数前面
+ * @Description: 将数组中的奇数放在偶数前面
  * 要求：奇数之间的相对位置不变，偶数也是
  */
 public class test13 {

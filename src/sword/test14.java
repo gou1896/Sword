@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 12:27
- * @Description: 《剑指offer》14.链表中倒数第k个节点
+ * @Description: 链表中倒数第k个节点
  */
 public class test14 {
 	public static void main(String[] args) {

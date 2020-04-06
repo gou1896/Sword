@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 11:08
- * @Description:11. 《剑指offer》11.二进制中1的个数
+ * @Description:11. 二进制中1的个数
  * 输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。
  */
 public class test11 {

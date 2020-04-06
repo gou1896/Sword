@@ -7,7 +7,7 @@ import java.util.Queue;
 /**
  * @Author: lei
  * @Data: 2020.4.5 11:17
- * @Description: 《剑指offer》60.把二叉树打印成多行
+ * @Description: 把二叉树打印成多行
  * 从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。
  */
 public class test60 {

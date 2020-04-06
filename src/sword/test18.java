@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 14:20
- * @Description: 《剑指offer》 18.二叉树的镜像
+ * @Description: 二叉树的镜像
  * 操作给定的二叉树，将其变换为源二叉树的镜像。
  * 二叉树的镜像定义：源二叉树
  *     	    8

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * @Author: lei
  * @Data: 2020.3.30 21:25
- * @Description: 《剑指offer》3. 从尾到头打印链表
+ * @Description: 从尾到头打印链表
  * 输入一个链表，按链表从尾到头的顺序返回一个ArrayList。
  */
 public class test3 {

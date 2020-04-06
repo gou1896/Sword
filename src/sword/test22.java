@@ -7,7 +7,7 @@ import java.util.Queue;
 /**
  * @Author: lei
  * @Data: 2020.3.31 15:35
- * @Description: 《剑指offer》22.从上往下打印出二叉树的每个节点，同层节点从左至右打印。
+ * @Description: 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
  */
 public class test22 {
 	public static void main(String[] args) {

@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.3.31 13:48
- * @Description: 《剑指offer》17. 树的子结构
+ * @Description: 树的子结构
  * 输入两棵二叉树A，B，判断B是不是A的子结构。（ps：我们约定空树不是任意一个树的子结构）
  */
 public class test17 {

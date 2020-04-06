@@ -3,7 +3,7 @@ package sword;
 /**
  * @Author: lei
  * @Data: 2020.4.1 14:57
- * @Description: 《剑指offer》37. 数字在排序数组中出现的次数
+ * @Description: 数字在排序数组中出现的次数
  * 统计一个数字在排序数组中出现的次数。
  */
 public class test37 {
