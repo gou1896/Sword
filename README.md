@@ -9,7 +9,7 @@ README
 
 ****
 ## 目录
-* [横线](#https://github.com/leipinyuan/Sword/blob/master/src/test1.java)
+* [横线](https://github.com/leipinyuan/Sword/blob/master/src/test1.java)
 * [标题](#标题)
 * [文本](#文本)
     * 普通文本
