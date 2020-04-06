@@ -76,15 +76,4 @@ README
 * [66. 机器人的运动范围](https://github.com/leipinyuan/Sword/blob/master/src/sword/test66.java)
 * [67. 剪绳子](https://github.com/leipinyuan/Sword/blob/master/src/sword/test67.java)
 
-
-
-#### 效果
-
-- [x] 需求分析
-- [x] 系统设计
-- [x] 详细设计
-- [ ] 编码
-- [ ] 测试
-- [ ] 交付
-
 :blush:
