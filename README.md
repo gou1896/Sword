@@ -76,6 +76,8 @@ README
 * [66. 机器人的运动范围](https://github.com/leipinyuan/Sword/blob/master/src/sword/test66.java)
 * [67. 剪绳子](https://github.com/leipinyuan/Sword/blob/master/src/sword/test67.java)
 
+
+比如`:blush:`，可以显示:blush:。
 #### 效果
 
 - [x] 需求分析
